@@ -1,0 +1,21 @@
+export const ADD_NUMBER = "ADD_NUMBER";
+export const SUBSTRACT_NUMBER = "SUBSTRACT_NUMBER";
+export const SET_9999 = "SET_9999";
+
+export const FIND_CAPTION_ASYNC = "FIND_CAPTION_ASYNC";
+export const SET_CAPTION_ASYNC = "SET_CAPTION_ASYNC";
+export const SET_CAPTION = "SET_CAPTION";
+export const CLEAR_CAPTION_ASYNC = "CLEAR_CAPTION_ASYNC";
+export const CLEAR_CAPTION = "CLEAR_CAPTION";
+
+export const SET_VIDLIST_ASYNC = "SET_VIDLIST_ASYNC";
+export const SET_VIDLIST = "SET_VIDLIST";
+export const CLEAR_VIDLIST_ASYNC = "CLEAR_VIDLIST_ASYNC";
+export const CLEAR_VIDLIST = "CLEAR_VIDLIST";
+
+export const SET_USER = "SET_USER";
+export const CLEAR_USER = "CLEAR_USER";
+export const SET_CHANNELS = "SET_CHANNELS";
+
+export const SET_PAGINATOR = "SET_PAGINATOR";
+export const CLEAR_PAGINATOR = "CLEAR_PAGINATOR";

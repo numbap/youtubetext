@@ -1,0 +1,4 @@
+Add pagination for video list
+Remove unused functions
+Comment each functions
+Highlight text => Link to timestamp on video
